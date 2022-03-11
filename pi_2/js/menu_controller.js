@@ -15,5 +15,3 @@ function options(){
 	// TODO: Open options menu
 	console.log("Options menu button");
 }
-
-
