@@ -8,7 +8,7 @@ function exit (){
 		alert("Leaving " + name + "'s game");
 	}
 	name = "";
-	loadpage("../../index.html")
+	loadpage("./../index.html")
 }
 
 function options(){
