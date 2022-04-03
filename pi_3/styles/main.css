@@ -11,6 +11,11 @@ input[type=number]{
 	line-height: 75px;
 }
 
+.taula{
+	align-items: center;
+	text-align: center;
+}
+
 .menu-object{
 	display:block;
 	margin-left: auto;
@@ -37,3 +42,7 @@ button.menu-object:hover:not(:active){
 	height: 85px;
 }
 
+#sortida{
+	text-align: center;
+	padding: 30px;
+}
